@@ -1,0 +1,15 @@
+body{
+	background: #c3c3c3;
+	font-family: arial;
+	color: #333;    /*lighter version of black*/
+
+}
+canvas{
+	width: 200px;
+	border: 1px solid ; /*default color is black*/
+}
+.btns{
+	margin:5px;
+	padding: 10px 5px;
+	font-weight: bolder;
+}
